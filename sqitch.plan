@@ -2,4 +2,4 @@
 %project=calvad_db_city_abbreviations
 %uri=git@activimetrics.com/a/jmarca/calvad_db_city_abbreviations
 
-city_abbrevs [calvad_db_county:appschema calvad_db_county:counties_fips] 2016-02-04T17:57:02Z James E. Marca <james@activimetrics.com> # Add city abbreviations.
+city_abbrevs [calvad_db_county:county_fips] 2016-02-04T17:57:02Z James E. Marca <james@activimetrics.com> # Add city abbreviations.
