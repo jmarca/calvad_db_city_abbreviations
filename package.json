@@ -14,5 +14,8 @@
     "geocoding"
   ],
   "author": "James E. Marca",
-  "license": "GPL-2.0"
+  "license": "GPL-2.0",
+  "dependencies": {
+    "calvad_db_county": "github:jmarca/calvad_db_county"
+  }
 }
